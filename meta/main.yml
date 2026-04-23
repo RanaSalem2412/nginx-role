@@ -10,7 +10,6 @@ galaxy_info:
   platforms:
     - name: Ubuntu
       versions:
-
         - all
 
   galaxy_tags:
@@ -19,4 +18,4 @@ galaxy_info:
     - ubuntu
     - apache
 
-  dependencies: []
+dependencies: []
